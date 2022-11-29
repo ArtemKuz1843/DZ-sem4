@@ -1,0 +1,15 @@
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\bin\Debug\net6.0\dz204ex03_SozdMass8ElemPech.exe
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\bin\Debug\net6.0\dz204ex03_SozdMass8ElemPech.deps.json
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\bin\Debug\net6.0\dz204ex03_SozdMass8ElemPech.runtimeconfig.json
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\bin\Debug\net6.0\dz204ex03_SozdMass8ElemPech.dll
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\bin\Debug\net6.0\dz204ex03_SozdMass8ElemPech.pdb
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\obj\Debug\net6.0\dz204ex03_SozdMass8ElemPech.csproj.AssemblyReference.cache
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\obj\Debug\net6.0\dz204ex03_SozdMass8ElemPech.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\obj\Debug\net6.0\dz204ex03_SozdMass8ElemPech.AssemblyInfoInputs.cache
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\obj\Debug\net6.0\dz204ex03_SozdMass8ElemPech.AssemblyInfo.cs
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\obj\Debug\net6.0\dz204ex03_SozdMass8ElemPech.csproj.CoreCompileInputs.cache
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\obj\Debug\net6.0\dz204ex03_SozdMass8ElemPech.dll
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\obj\Debug\net6.0\refint\dz204ex03_SozdMass8ElemPech.dll
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\obj\Debug\net6.0\dz204ex03_SozdMass8ElemPech.pdb
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\obj\Debug\net6.0\dz204ex03_SozdMass8ElemPech.genruntimeconfig.cache
+D:\Обучение\3 Знак с яз прогр СиШ\SiSharp\dz204ex03_SozdMass8ElemPech\obj\Debug\net6.0\ref\dz204ex03_SozdMass8ElemPech.dll
